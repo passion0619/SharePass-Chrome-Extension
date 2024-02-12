@@ -1,6 +1,6 @@
 # SharePass Chrome Extension
 
-## Project Setup
+## How to use
 
 ```sh
 npm install
