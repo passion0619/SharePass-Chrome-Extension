@@ -4,6 +4,8 @@
 
 # Development Environment
 
+Share accounts and subscriptions without giving your passwords away.
+
 --- Frontend ---
 
 <p align="left">
