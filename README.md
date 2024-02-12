@@ -2,8 +2,6 @@
 
 ## How to use
 
-### Compile and Minify for Production
-
 ```sh
 npm run build
 ```
