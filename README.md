@@ -23,7 +23,7 @@ Share Accounts - Not Passwords.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,css" />
+    <img src="https://skillicons.dev/icons?i=js,css" />
   </a>
 </p>
 
