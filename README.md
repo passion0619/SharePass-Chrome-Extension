@@ -2,10 +2,6 @@
 
 ## How to use
 
-```sh
-npm run build
-```
-
 # Development Environment
 
 --- Frontend ---
