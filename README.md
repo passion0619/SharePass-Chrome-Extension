@@ -1,6 +1,6 @@
 # SharePass Chrome Extension
 
-## How to use
+## About SharePass
 
 # Development Environment
 
