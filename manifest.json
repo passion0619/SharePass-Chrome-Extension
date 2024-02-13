@@ -1,0 +1,38 @@
+{
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Don't risk it"
+  },
+  "manifest_version": 3,
+  "name": "Mychromeextension",
+  "description": "Use Mychromeextension extension to send your sensitive data securely in just few clicks, without changing your tabs!",
+  "version": "1.0.18",
+  "permissions": ["contextMenus", "tabs", "storage", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*/*"],
+      "exclude_matches": ["*://*/_/chrome/newtab*"],
+      "all_frames": true,
+      "js": [
+        "extension/js/config.js",
+        "extension/js/jquery.js",
+        "extension/js/sjcl.js",
+        "extension/js/content.js"
+      ],
+      "css": ["extension/css/styles.css", "extension/css/loader.css"]
+    }
+  ],
+  "background": {
+    "service_worker": "extension/js/background.js"
+  },
+  "minimum_chrome_version": "93",
+  "icons": {
+    "16": "extension/images/logo16.png",
+    "48": "extension/images/logo48.png",
+    "128": "extension/images/logo128.png"
+  }
+}
