@@ -9,7 +9,7 @@ Everything for a Username!
 Share Accounts - Not Passwords.
 - Share temporary access for 4 hours, 1 day, 7 days or 2 weeks! Perfect for a socially-distanced movie night or binge watching the latest season of your favourite TV show.
 - Your accounts are encrypted and sent via an SSL secured network - no need to generate manual URLs which store your sessions on a server, just type in their username and hit SharePass!
-- Sessions are stored locally on your device, meaning even we can't access your data.
+
 # Development Environment
 
 --- Frontend ---
