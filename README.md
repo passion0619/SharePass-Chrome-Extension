@@ -28,4 +28,3 @@ Share Accounts - Not Passwords.
   </a>
 </p>
 
-Greated By Danylo M.
