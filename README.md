@@ -1,4 +1,4 @@
-# SharePass 
+# 
 
 ## About SharePass
 Share accounts and subscriptions without giving your passwords away.
