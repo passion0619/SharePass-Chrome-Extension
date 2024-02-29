@@ -1,4 +1,4 @@
-# SharePass Chrome Extension
+# SharePass Chrome
 
 ## About SharePass
 Share accounts and subscriptions without giving your passwords away.
