@@ -1,4 +1,4 @@
-# SharePass Chrome
+# SharePass Chrome Psssword
 
 ## About SharePass
 Share accounts and subscriptions without giving your passwords away.
