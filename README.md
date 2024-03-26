@@ -24,7 +24,7 @@ Share Accounts - Not Passwords.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=php,sql" />
   </a>
 </p>
 
